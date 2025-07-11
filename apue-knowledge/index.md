@@ -1,2 +1,0 @@
-abc
-[[common-errors]]
