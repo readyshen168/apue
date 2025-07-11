@@ -1,0 +1,3 @@
+[submodule "apue-knowledge"]
+	path = apue-knowledge
+	url = https://github.com/foambubble/foam-template
